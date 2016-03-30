@@ -1,6 +1,6 @@
 var by_abbr = {    
-    'AK':'Alabama',
-    'AL':'Alaska',
+    'AL':'Alabama',
+    'AK':'Alaska',
     'AZ':'Arizona',
     'AR':'Arkansas',
     'CA':'California',
@@ -68,8 +68,8 @@ var by_abbr = {
 }
 
 var by_full = {    
-    'Alabama':'AK',
-    'Alaska':'AL',
+    'Alabama':'AL',
+    'Alaska':'AK',
     'Arizona':'AZ',
     'Arkansas':'AR',
     'California':'CA',
